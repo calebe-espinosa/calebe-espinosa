@@ -2,7 +2,7 @@
 
 ### About me 😁
 - My name is Calebe Espinosa;
-- I live in Fortaleza, Ceará, Brazil;
+- I live in Porto, Portugal;
 - I am a Front-End Developer;
 - I love to learn new things, and solve problems every day;
 - My current Stack: HTML, CSS and JS.
